@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "249166535219",
+    "project_id": "gloifyassignment",
+    "storage_bucket": "gloifyassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249166535219:android:d6f7b9b8011944d497e146",
+        "android_client_info": {
+          "package_name": "com.borndev.plans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249166535219-uq2691puojebudplqs91sn2r5r556nr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIA33IpZX2OgJbWdhDpq5maHuCufCcvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249166535219-uq2691puojebudplqs91sn2r5r556nr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249166535219-dl7o00s8b4s5r80on3bpaueaqiium0d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dayplanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
